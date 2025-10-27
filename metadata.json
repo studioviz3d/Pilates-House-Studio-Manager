@@ -1,0 +1,5 @@
+{
+  "name": "Pilates House Studio Manager Final",
+  "description": "A comprehensive management application for Pilates studios, featuring an interactive dashboard, booking management, package tracking, and trainer payment calculations. Designed for admins, trainers, and receptionists to streamline daily operations.",
+  "requestFramePermissions": []
+}
